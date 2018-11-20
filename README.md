@@ -9,10 +9,10 @@
 서버와 HTML 통신하여 저장된 사용자, 물고기 데이터를 송수신합니다.
 
 사용 라이브러리 
-Facebook API – https://developers.facebook.com/
-KakaoTalk API – https://developers.kakao.com/
-Google API – https://developers.google.com/
-Google gson – https://github.com/google/gson (Apache)
-Picasso – http://square.github.io/picasso/ (Apache)
-JSON – https://code.google.com/archive/p/json-simple/ (Apache)　
-bluetooth chat – https://github.com/godstale/BLEChat (GPL 3.0)
+Facebook API – https://developers.facebook.com/ <br>
+KakaoTalk API – https://developers.kakao.com/ <br>
+Google API – https://developers.google.com/ <br>
+Google gson – https://github.com/google/gson (Apache) <br>
+Picasso – http://square.github.io/picasso/ (Apache) <br>
+JSON – https://code.google.com/archive/p/json-simple/ (Apache)　<br>
+bluetooth chat – https://github.com/godstale/BLEChat (GPL 3.0) <br>
