@@ -8,7 +8,7 @@
 
 서버와 HTML 통신하여 저장된 사용자, 물고기 데이터를 송수신합니다.
 
-사용 라이브러리 
+사용 라이브러리 <br>
 Facebook API – https://developers.facebook.com/ <br>
 KakaoTalk API – https://developers.kakao.com/ <br>
 Google API – https://developers.google.com/ <br>
