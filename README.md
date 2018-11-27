@@ -17,4 +17,6 @@ Picasso – http://square.github.io/picasso/ (Apache) <br>
 JSON – https://code.google.com/archive/p/json-simple/ (Apache)　<br>
 bluetooth chat – https://github.com/godstale/BLEChat (GPL 3.0) <br>
 
-<iframe width="854" height="480" src="https://youtu.be/yvWlxXHXJS4" frameborder="0" allowfullscreen></iframe>
+<div>
+<iframe width="640" height="360" src="https://youtu.be/yvWlxXHXJS4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+</div>
