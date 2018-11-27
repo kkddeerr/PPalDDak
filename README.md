@@ -1,9 +1,5 @@
 
-<div>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/yvWlxXHXJS4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-</div>
-
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/yvWlxXHXJS4)
+[![Watch the video](https://user-images.githubusercontent.com/22215395/49064414-2e27ad80-f25e-11e8-8f55-1127c39ec998.JPG)](https://www.youtube.com/embed/yvWlxXHXJS4)
 
 
 한성대학교 컴퓨터공학부 W2M3팀의 졸업프로젝트 작품 입니다.
