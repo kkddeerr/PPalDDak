@@ -3,6 +3,8 @@
 <iframe width="640" height="360" src="https://www.youtube.com/embed/yvWlxXHXJS4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 </div>
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/yvWlxXHXJS4)
+
 
 한성대학교 컴퓨터공학부 W2M3팀의 졸업프로젝트 작품 입니다.
 
